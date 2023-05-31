@@ -1,0 +1,5 @@
+1) npm init -y
+2) npm i -D nodemon
+3) npm i express
+4) Crear el server en index.js
+5) configurar static, hacer carpeta public y crear index.html
